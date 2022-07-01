@@ -1,0 +1,1 @@
+# senasys_odoo
